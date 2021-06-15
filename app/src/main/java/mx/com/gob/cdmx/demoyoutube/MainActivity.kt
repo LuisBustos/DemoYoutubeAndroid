@@ -10,7 +10,7 @@ import com.google.android.youtube.player.YouTubePlayer
 import com.google.android.youtube.player.YouTubePlayerView
 
 class MainActivity : YouTubeBaseActivity(), YouTubePlayer.OnInitializedListener {
-    val claveYoutube = "AIzaSyAkDUGwIldOXw4JtX03PUpAphXaKp998h8"
+    val claveYoutube = "" //Falta agregar la clave de Youtube
     lateinit var youTubePlayerView: YouTubePlayerView
 
 
